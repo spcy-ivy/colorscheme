@@ -1,6 +1,8 @@
 * Velvet v1.0
 This is the colorscheme we use for a lot of our games. 😊
 
+[[./colorscheme.png]]
+
 #+BEGIN_SRC yaml
 scheme: "Velvet"
 author: "Ivy"
