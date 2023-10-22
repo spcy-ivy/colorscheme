@@ -21,3 +21,7 @@ base0D: "#8dd3de"
 base0E: "#acbefa"
 base0F: "#d7a9f4"
 #+END_SRC
+
+[[Realtime Colors Demo][https://www.realtimecolors.com/?colors=cb6e60-59251d-8c3b2e-a44b3d-db8274&fonts=Poppins-Poppins]]
+
+[[Accessibility Rating][https://www.aremycolorsaccessible.com/palette?colors=%2359251d&colors=%23722c21&colors=%238c3b2e&colors=%23a44b3d&colors=%23b95c4e&colors=%23cb6e60&colors=%23db8274&colors=%23e89689&colors=%23f2aba1]] (Spoiler: I don't think it does really well... hahaha... If any colorblind people want to contribute to this scheme please file a PR or an issue.)
