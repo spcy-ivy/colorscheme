@@ -4,6 +4,7 @@ This is the colorscheme we use for a lot of our games. 😊
 #+BEGIN_SRC yaml
 scheme: "Velvet"
 author: "Ivy"
+base00: "#59251d"
 base01: "#722c21"
 base02: "#8c3b2e"
 base03: "#a44b3d"
