@@ -30,3 +30,6 @@ base0F: "#d7a9f4"
 I am not sure about the accessibility of this colorscheme.
 
 If you are colorblind or have a condition that gives you a tough time looking for stuff with this colorscheme, please file an issue or a PR and I will try my best to help.
+
+* More examples!
+[[./neovim-demo.png]]
