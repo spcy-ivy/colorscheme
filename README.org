@@ -1,4 +1,4 @@
-* Velvet v1.1
+* Velvet v1.2
 This is the colorscheme we use for a lot of our games. 😊
 
 [[./colorscheme.png]]
