@@ -6,9 +6,9 @@ This is the colorscheme we use for a lot of our games. 😊
 #+BEGIN_SRC yaml
 scheme: "Velvet"
 author: "Ivy"
-base00: "#59251d" # default bg
+base00: "#59251d" # default bg (bg means background)
 base01: "#722c21" # lighter bg
-base02: "#8c3b2e" # selection fg
+base02: "#8c3b2e" # selection fg (fg means foreground/text)
 base03: "#a44b3d" # comments
 base04: "#b95c4e" # dark fg
 base05: "#cb6e60" # default fg
