@@ -6,22 +6,22 @@ This is the colorscheme we use for a lot of our games. 😊
 #+BEGIN_SRC yaml
 scheme: "Velvet"
 author: "Ivy"
-base00: "#59251d"
-base01: "#722c21"
-base02: "#8c3b2e"
-base03: "#a44b3d"
-base04: "#b95c4e"
-base05: "#cb6e60"
-base06: "#db8274"
-base07: "#e89689"
-base08: "#f2aba1"
-base09: "#e5b690"
-base0A: "#e5d390"
-base0B: "#a8d58a"
-base0C: "#8bddaf"
-base0D: "#8dd3de"
-base0E: "#acbefa"
-base0F: "#d7a9f4"
+base00: "#59251d" # default bg
+base01: "#722c21" # lighter bg
+base02: "#8c3b2e" # selection fg
+base03: "#a44b3d" # comments
+base04: "#b95c4e" # dark fg
+base05: "#cb6e60" # default fg
+base06: "#db8274" # light fg
+base07: "#e89689" # light bg
+base08: "#f2aba1" # red
+base09: "#e5b690" # orange
+base0A: "#e5d390" # yellow
+base0B: "#a8d58a" # green
+base0C: "#8bddaf" # teal
+base0D: "#8dd3de" # blue
+base0E: "#acbefa" # indigo
+base0F: "#d7a9f4" # violet
 #+END_SRC
 
 [[https://www.realtimecolors.com/?colors=cb6e60-59251d-8c3b2e-a44b3d-db8274&fonts=Poppins-Poppins][Realtime Colors Demo]]
